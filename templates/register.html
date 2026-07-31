@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>EcoSaver - Register</title>
+    <style>
+        body { font-family: Arial; background-color: #f2f2f2; text-align: center; }
+        form { background: white; padding: 30px; border-radius: 10px; display: inline-block; margin-top: 100px; }
+        input { display: block; margin: 10px auto; padding: 10px; width: 250px; }
+        button { padding: 10px 20px; background-color: green; color: white; border: none; border-radius: 5px; }
+        a { display: block; margin-top: 10px; color: blue; text-decoration: none; }
+    </style>
+</head>
+<body>
+    <h1>EcoSaver Registration</h1>
+    <form action="/register" method="POST">
+        <input type="text" name="name" placeholder="Full Name" required>
+        <input type="email" name="email" placeholder="Email Address" required>
+        <input type="text" name="meter" placeholder="Meter Number" required>
+        <button type="submit">Register</button>
+    </form>
+    <a href="/">Already registered? Login here</a>
+</body>
+</html>

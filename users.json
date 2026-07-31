@@ -1,0 +1,40 @@
+{
+    "reddyrahulkarnati8@gmail.com": {
+        "meter": "81252",
+        "appliances": [
+            "AC",
+            "Fridge"
+        ]
+    },
+    "karnatireddyrahul2005@gmail.com": {
+        "name": "Rahul",
+        "meter": "99999",
+        "appliances": []
+    },
+    "reddyrahulkarnati@gmail.com": {
+        "name": "karnati",
+        "meter": "",
+        "appliances": [
+            "AC",
+            "Washing Machine"
+        ]
+    },
+    "palutulasaivamsi@gmail.com": {
+        "name": "vamsi",
+        "meter": "11111",
+        "appliances": [
+            "AC",
+            "Washing Machine"
+        ]
+    },
+    "kodurupadmabindu@gmail.com": {
+        "name": " HB B",
+        "meter": "23",
+        "appliances": [
+            "Washing Machine",
+            "Refrigerator",
+            "AC",
+            "TV"
+        ]
+    }
+}
